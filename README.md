@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandrikakhanal
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data Analytics , Tableau, Power BI, MySql
-- 💞️ I’m looking to collaborate on projects realted to Data Analytics
+- 👀 I’m interested in data Engineer
+- 
+- 💞️ I’m looking to collaborate on projects related to Data Engineer
 - 📫 
 
 <!---
